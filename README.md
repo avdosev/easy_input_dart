@@ -37,6 +37,6 @@ void main() async {
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: https://github.com/avdosev/itertools_dart/issues
-[pubdev]: https://pub.dev/packages/itertools
-[docs]: https://pub.dev/documentation/itertools/latest/
+[tracker]: https://github.com/avdosev/easy_input_dart/issues
+[pubdev]: https://pub.dev/packages/easy_input
+[docs]: https://pub.dev/documentation/easy_input/latest/
