@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'file_helper.dart';
 
+// read line from stdio or provided file
 String? input({
   RandomAccessFile? file,
   Encoding encoding = systemEncoding,
